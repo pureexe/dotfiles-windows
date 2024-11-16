@@ -17,6 +17,13 @@ winget install -e --id Microsoft.VisualStudioCode
 ### Github Desktop
 winget install --id=GitHub.GitHubDesktop  -e
 
+### Filezila 
+### https://download.filezilla-project.org/client/FileZilla_3.68.1_win64_sponsored2-setup.exe
+
+
+## PC Tools 
+###  Fancontrol
+winget install --id=Rem0o.FanControl  -e
 
 ## entertainment
 ### discord
